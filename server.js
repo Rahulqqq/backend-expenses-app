@@ -1,6 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const db = require('./db');
+const db = require('./db'); // database
 
 const ExcelJS = require('exceljs');
 const fs = require('fs');
