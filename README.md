@@ -1,4 +1,6 @@
 # Daily Expenses Sharing Application Backend
+![Screenshot (121)](https://github.com/user-attachments/assets/4e3b9877-a3b3-470d-9b02-a7e28c64c3ad)
+
 
   ## Project Overview
   This project provides the backend for a daily expenses sharing application. Users can manage expenses and split them with friends using three different methods: equal, exact amounts, and percentage-based splits. The backend handles user management, expense tracking, and provides functionality to generate balance sheets in Excel or PDF formats.
